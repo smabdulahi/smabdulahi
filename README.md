@@ -4,7 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Aspiring Data Analyst
 ---------------------
 
-I am currently enrolled in a Data Analyst bootcamp, which has allowed me to upskill as a data analyst. Throughout this course, we have been provided with workbooks to showcase what we have learned. I have a passion for extracting insights from complex datasets. During my time in the program, I have deepened and strengthened my knowledge of data analysis using various tools such as Excel and Python. The workbooks and tasks assigned have enabled me to enhance my ability to transform raw data and use it to analyze trends, develop predictive models, and create visualizations.
+I am currently enrolled in a Data Analyst bootcamp, which has allowed me to upskill as a data analyst. Throughout this course, we have been provided with workbooks to showcase what we have learned. 
+
+I have a passion for extracting insights from complex datasets. During my time in the program, I have deepened and strengthened my knowledge of data analysis using various tools such as Excel and Python. 
+
+The workbooks and tasks assigned have enabled me to enhance my ability to transform raw data and use it to analyze trends, develop predictive models, and create visualizations.
 
 *   🌍  I'm based in London
 *   ✉️  You can contact me at [shuaibabdulahi@hotmail.com](mailto:shuaibabdulahi@hotmail.com)
