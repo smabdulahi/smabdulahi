@@ -12,7 +12,9 @@ The workbooks and tasks assigned have enabled me to enhance my ability to transf
 
 *   🌍  I'm based in London
 *   ✉️  You can contact me at [shuaibabdulahi@hotmail.com](mailto:shuaibabdulahi@hotmail.com)
-*   🧠  I'm learning Excel, Tableau, Power BI, SQL, Azure Data Fundamentals & Python### Skills 
+*   🧠  I'm learning Excel, Tableau, Power BI, SQL, Azure Data Fundamentals & Python
+  
+  ### Skills 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a>
                     </p>
