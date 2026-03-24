@@ -12,7 +12,7 @@ I am now focused on expanding my programming knowledge, strengthening my underst
 
 *   🌍  I'm based in London
 *   ✉️  You can contact me at [shuaibabdulahi@hotmail.com](mailto:shuaibabdulahi@hotmail.com)
-*   🧠  I'm learning Excel, Tableau, Power BI, SQL, Azure Data Fundamentals & Python
+*   🧠  I'm learning Java, Excel, Tableau, Power BI, SQL, Azure Data Fundamentals & Python
   
   ### Skills 
 <p align="left">
