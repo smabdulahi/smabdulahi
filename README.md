@@ -1,14 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Shuaib Abdulahi
 =======================================================================================================================================
 
-Aspiring Data Analyst
+Aspiring Software Engineer
 ---------------------
 
-I am currently enrolled in a Data Analyst bootcamp, which has allowed me to upskill as a data analyst. Throughout this course, we have been provided with workbooks to showcase what we have learned. 
+I am currently exploring a transition into software engineering, with a growing interest in Java and software development principles.
 
-I have a passion for extracting insights from complex datasets. During my time in the program, I have deepened and strengthened my knowledge of data analysis using various tools such as Excel and Python. 
+My technical background began in data analysis, where I developed experience using tools such as Excel and Python to interpret data, identify trends, and solve analytical problems. Through academic work and practical assignments, I also gained exposure to Java during university, which sparked my interest in software development and problem-solving.
 
-The workbooks and tasks assigned have enabled me to enhance my ability to transform raw data and use it to analyze trends, develop predictive models, and create visualizations.
+I am now focused on expanding my programming knowledge, strengthening my understanding of software engineering concepts, and building projects that reflect clean, logical, and maintainable code.
 
 *   🌍  I'm based in London
 *   ✉️  You can contact me at [shuaibabdulahi@hotmail.com](mailto:shuaibabdulahi@hotmail.com)
